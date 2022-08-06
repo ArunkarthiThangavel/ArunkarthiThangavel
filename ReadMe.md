@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Arunkarthu
+I am Arunkarthi
 
 
 ## 🌐 Socials:
