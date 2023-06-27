@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arunkarthi T</h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **backend**
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **arunkarthi827@gmail.com**
